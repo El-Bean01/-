@@ -3,9 +3,10 @@
 ### Education
 Northern Virginia 
 Community College
-Certicates:
-Application Programming 
-Database Specialist
+
+# Certicates:
+- Application Programming 
+- Database Specialist
 
 
 
@@ -18,7 +19,9 @@ might face in their own position. I hope for your consideration for this positio
 the time in my resume.
 
 ## Projects 
-ClientShip - client/shipping management site - utilizing React & Django
+ClientShip 
+- client/shipping management site
+- utilizing React & Django
 
 ## Work Experience 
 Shipping & Receiving @ HV Technologies
