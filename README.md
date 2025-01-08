@@ -9,7 +9,7 @@ Database Specialist
 
 
 
-##Summary
+## Summary
 Hello,
 My name is Elvin I consider myself a diligent worker. I enjoy finding solutions to issues the position may
 have or help streamline the process to be more efficient. I’m never too shy to ask for help but I will try
@@ -17,7 +17,7 @@ my best to not make my problems anyone else’s and to help others around me wit
 might face in their own position. I hope for your consideration for this position and thank you for taking
 the time in my resume.
 
-##Projects 
+## Projects 
 ClientShip - client/shipping management site - utilizing React & Django
 
 ## Work Experience 
