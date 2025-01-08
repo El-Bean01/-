@@ -3,8 +3,7 @@
 ### Education
 Northern Virginia 
 Community College
-
-# Certicates:
+Certicates:
 - Application Programming 
 - Database Specialist
 
