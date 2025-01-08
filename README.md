@@ -20,6 +20,7 @@ the time in my resume.
 
 ## Projects 
 ClientShip 
+[Publication](https://github.com/El-Bean01/Clientship)
 - client/shipping management site
 - utilizing React & Django
 
