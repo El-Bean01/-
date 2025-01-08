@@ -30,11 +30,15 @@ ClientShip
 
 ## Work Experience 
 Shipping & Receiving @ HV Technologies
-• Developed and implemented an efficient organization system to streamline the handling of materials,
+
+- Developed and implemented an efficient organization system to streamline the handling of materials,
 reducing retrieval times and minimizing errors in order fulfilment.
-• Carefully managed the packaging of sensitive, high-value equipment, ensuring compliance with safety
+
+- Carefully managed the packaging of sensitive, high-value equipment, ensuring compliance with safety
 protocols to prevent damage and improve customer satisfaction.
-• Operated forklifts to transport heavy loads safely and efficiently, contributing to overall warehouse
+
+- Operated forklifts to transport heavy loads safely and efficiently, contributing to overall warehouse
 productivity.
-• Used downtime to audit inventory and assist other departments, fostering cross-functional collaboration
+
+- Used downtime to audit inventory and assist other departments, fostering cross-functional collaboration
 and maintaining productivity during low-activity periods.
