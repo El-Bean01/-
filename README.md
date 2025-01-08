@@ -1,5 +1,9 @@
 # Software Developer
 
+
+
+
+
 ### Education
 Northern Virginia 
 Community College
@@ -21,8 +25,8 @@ the time in my resume.
 ## Projects 
 ClientShip 
 [Repo](https://github.com/El-Bean01/Clientship)
-- client/shipping management site
-- utilizing React & Django
+- Client/shipping management site
+- Utilizing React & Django
 
 ## Work Experience 
 Shipping & Receiving @ HV Technologies
