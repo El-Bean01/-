@@ -16,7 +16,7 @@ ClientShip (assets.img/IMG_9447.jpeg)
 - Utilizing React & Django
 
 
-Alarm Clock [image](/assests.img/IMG_9448.jpeg)
+Alarm Clock logo: /assets.img/IMG_9447.jpeg
 [See The Code](https://github.com/El-Bean01/tkinter-alarm.git)
 - GUI alarm clock
 - Utilizing Tkinter, Python3
