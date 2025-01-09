@@ -5,11 +5,10 @@ Hello,
 My name is Elvin I consider myself a diligent worker. I enjoy finding solutions to issues the position may
 have or help streamline the process to be more efficient. I’m never too shy to ask for help but I will try
 my best to not make my problems anyone else’s and to help others around me with any roadblocks they
-might face in their own position. I hope for your consideration for this position and thank you for taking
-the time in my resume.
+might face in their own position. I hope for your consideration for this position, Thank You.
 
 
-## Projects 
+## Latest Projects 
 ClientShip [App Photo](/assets.img/IMG_9447.jpeg)/
 [See The Code](https://github.com/El-Bean01/Clientship)
 - Client/shipping management site
@@ -22,7 +21,7 @@ Alarm Clock [App Photo](/assets.img/IMG_9447.jpeg)/
 - Utilizing Tkinter, Python3
 
 
-### Education
+## Education
 Northern Virginia 
 Community College
 
@@ -32,7 +31,7 @@ Certicates:
 
 
 
-## Work Experience 
+### Work Experience 
 Shipping & Receiving @ HV Technologies
 
 - Developed and implemented an efficient organization system to streamline the handling of materials,
