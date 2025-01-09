@@ -1,6 +1,19 @@
 # Software Developer
 
+## Summary
+Hello,
+My name is Elvin I consider myself a diligent worker. I enjoy finding solutions to issues the position may
+have or help streamline the process to be more efficient. I’m never too shy to ask for help but I will try
+my best to not make my problems anyone else’s and to help others around me with any roadblocks they
+might face in their own position. I hope for your consideration for this position and thank you for taking
+the time in my resume.
 
+
+## Projects 
+ClientShip 
+[Project](https://github.com/El-Bean01/Clientship)
+- Client/shipping management site
+- Utilizing React & Django
 
 
 
@@ -13,20 +26,6 @@ Certicates:
 - Database Specialist
 
 
-
-## Summary
-Hello,
-My name is Elvin I consider myself a diligent worker. I enjoy finding solutions to issues the position may
-have or help streamline the process to be more efficient. I’m never too shy to ask for help but I will try
-my best to not make my problems anyone else’s and to help others around me with any roadblocks they
-might face in their own position. I hope for your consideration for this position and thank you for taking
-the time in my resume.
-
-## Projects 
-ClientShip 
-[Repo](https://github.com/El-Bean01/Clientship)
-- Client/shipping management site
-- Utilizing React & Django
 
 ## Work Experience 
 Shipping & Receiving @ HV Technologies
