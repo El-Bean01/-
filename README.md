@@ -24,8 +24,7 @@ Alarm Clock [App Photo](/assets.img/IMG_9447.jpeg)/
 ## Education
 Northern Virginia 
 Community College
-
-Certicates:
+Certificates:
 - Application Programming 
 - Database Specialist
 
