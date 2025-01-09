@@ -1,6 +1,6 @@
-### Software Developer
+## Software Developer
 
-## Summary
+### Summary
 Hello, my name is Elvin. I’m a hardworking and dependable person who enjoys solving problems and finding ways to make tasks easier and more efficient. I don’t hesitate to ask for help when I need it, but I always try to handle challenges on my own first.
 
 I also enjoy helping others if they run into trouble, as I believe teamwork is really important. I’m confident that my positive attitude and willingness to learn would make me a great fit for your team. Thank you for considering my application. I’m excited about the chance to grow and contribute to your company.
