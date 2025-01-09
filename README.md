@@ -32,7 +32,7 @@ Certificates:
 
 
 ### Work Experience 
-#####Shipping & Receiving @ HV Technologies
+#### Shipping & Receiving @ HV Technologies
 Jan/24 - Present
 - Developed and implemented an efficient organization system to streamline the handling of materials,
 reducing retrieval times and minimizing errors in order fulfilment.
