@@ -10,13 +10,13 @@ the time in my resume.
 
 
 ## Projects 
-ClientShip [image]/assests/img/headshot_circle.png
+ClientShip [/assests/img/headshot_circle.png]
 [See The Code](https://github.com/El-Bean01/Clientship)
 - Client/shipping management site
 - Utilizing React & Django
 
 
-Alarm Clock [image]/assests/img/headshot_circle.png
+Alarm Clock [image](/assests/img/headshot_circle.png)
 [See The Code](https://github.com/El-Bean01/tkinter-alarm.git)
 - GUI alarm clock
 - Utilizing Tkinter, Python3
