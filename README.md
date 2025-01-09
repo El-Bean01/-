@@ -24,6 +24,7 @@ Alarm Clock [App Photo](/assets.img/IMG_9447.jpeg)/
 ## Education
 Northern Virginia 
 Community College
+
 Certificates:
 - Application Programming 
 - Database Specialist
@@ -32,7 +33,7 @@ Certificates:
 
 ### Work Experience 
 Shipping & Receiving @ HV Technologies
-
+Jan/24 - Present
 - Developed and implemented an efficient organization system to streamline the handling of materials,
 reducing retrieval times and minimizing errors in order fulfilment.
 
