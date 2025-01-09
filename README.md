@@ -10,7 +10,7 @@ the time in my resume.
 
 
 ## Projects 
-ClientShip [/assests/img/headshot_circle.png]
+ClientShip (/assests/img/headshot_circle.png)
 [See The Code](https://github.com/El-Bean01/Clientship)
 - Client/shipping management site
 - Utilizing React & Django
