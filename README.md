@@ -7,16 +7,21 @@ I also enjoy helping others if they run into trouble, as I believe teamwork is r
 
 
 ## Latest Projects 
-ClientShip [App Photo](/assets.img/IMG_9447.jpeg)/
+ClientShip (Currently being worked on)
 [See The Code](https://github.com/El-Bean01/Clientship)
 - Client/shipping management site
 - Utilizing React & Django
 
 
-Alarm Clock [App Photo](/assets.img/IMG_9447.jpeg)/
+Alarm Clock [App Photo](/assets.img/alarmclock.png)/
 [See The Code](https://github.com/El-Bean01/tkinter-alarm.git)
 - GUI alarm clock
 - Utilizing Tkinter, Python3
+
+Weather APP [App Photo](/assets.img/weatherapp.png)/
+[See The Code](https://github.com/El-Bean01/tkinter-alarm.git)
+- Basic weather app 
+- Utilizing Tkinter, Python3, Intergrated API
 
 
 ## Education
