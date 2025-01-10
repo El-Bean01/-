@@ -19,7 +19,7 @@ Alarm Clock [App Photo](/assets.img/alarmclock.png)/
 - Utilizing Tkinter, Python3
 
 Weather APP [App Photo](/assets.img/weatherapp.png)/
-[See The Code](https://github.com/El-Bean01/tkinter-alarm.git)
+[See The Code](https://github.com/El-Bean01/TkinterWeatherApp.git)
 - Basic weather app 
 - Utilizing Tkinter, Python3, Intergrated API
 
