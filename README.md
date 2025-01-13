@@ -28,9 +28,19 @@ Weather APP [App Photo](/assets.img/weatherapp.png)/
 Northern Virginia 
 Community College
 
-Certificates:
-- Application Programming 
-- Database Specialist
+### Certificates:
+### Application Programming
+- Courses taken to complete certificate
+    - Software Design
+    - Java
+    - Python
+    - Android Studios/ Kotlin 
+### Database Specialist
+- Courses taken to complete certificate
+    - Data Modeling & Design
+    - SQL
+    - PL/SQL
+    - Database Managment
 
 
 
