@@ -29,13 +29,13 @@ Northern Virginia
 Community College
 
 ### Certificates:
-### Application Programming
+#### Application Programming
 - Courses taken to complete certificate
     - Software Design
     - Java
     - Python
     - Android Studios/ Kotlin 
-### Database Specialist
+#### Database Specialist
 - Courses taken to complete certificate
     - Data Modeling & Design
     - SQL
