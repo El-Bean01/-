@@ -25,8 +25,7 @@ Weather APP [App Photo](/assets.img/weatherapp.png)/
 
 
 ## Education
-Northern Virginia 
-Community College
+### Northern Virginia Community College
 
 ### Certificates:
 #### Application Programming
