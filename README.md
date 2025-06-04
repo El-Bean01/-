@@ -1,9 +1,9 @@
 ## Software Developer
 
 ### Summary
-Hello, my name is Elvin. I’m a hardworking and dependable person who enjoys solving problems and finding ways to make tasks easier and more efficient. I don’t hesitate to ask for help when I need it, but I always try to handle challenges on my own first.
+About Me
+Hi, I’m Elvin. I’m a developer who enjoys breaking down complex problems and building efficient solutions—whether it's streamlining a workflow, automating a task, or supporting a team. I approach each project with curiosity, a strong work ethic, and a focus on constant growth. While I’m comfortable working independently, I also value collaboration and helping others when I can. My goal is to keep learning, keep building, and keep improving with every project.
 
-I also enjoy helping others if they run into trouble, as I believe teamwork is really important. I’m confident that my positive attitude and willingness to learn would make me a great fit for your team. Thank you for considering my application. I’m excited about the chance to grow and contribute to your company.
 
 
 ## Latest Projects 
@@ -29,31 +29,20 @@ Weather APP [App Photo](/assets.img/weatherapp.png)/
 
 ### Certificates:
 #### Application Programming
-- Courses taken to complete certificate
-    - Software Design
-    - Java
-    - Python
-    - Android Studios/ Kotlin 
+Earned a one-year programming certificate with hands-on training in Java, Python, and front-end technologies (HTML/CSS/JavaScript). Focused on object-oriented programming, software design patterns, and writing clean, maintainable code. Gained practical skills in problem-solving, debugging, and building small-scale applications across platforms.
 #### Database Specialist
-- Courses taken to complete certificate
-    - Data Modeling & Design
-    - SQL
-    - PL/SQL
-    - Database Managment
+Completed a one-year certification in Database Design, with hands-on training in SQL, PL/SQL, data modeling, and relational databases. Learned to write complex queries and design scalable, secure databases.
 
 
 
 ### Work Experience 
 #### Shipping & Receiving @ HV Technologies
-Jan/24 - Present
-- Developed and implemented an efficient organization system to streamline the handling of materials,
-reducing retrieval times and minimizing errors in order fulfilment.
+Jan 2024 – Present
 
-- Carefully managed the packaging of sensitive, high-value equipment, ensuring compliance with safety
-protocols to prevent damage and improve customer satisfaction.
+- Organized materials to improve access and reduce mistakes in order fulfillment.
 
-- Operated forklifts to transport heavy loads safely and efficiently, contributing to overall warehouse
-productivity.
+- Packaged sensitive equipment with care, following safety guidelines.
 
-- Used downtime to audit inventory and assist other departments, fostering cross-functional collaboration
-and maintaining productivity during low-activity periods.
+- Safely operated forklifts and handled heavy shipments.
+
+- Helped with inventory checks and supported other teams during slower periods.
